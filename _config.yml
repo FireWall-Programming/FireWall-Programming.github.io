@@ -8,3 +8,5 @@ defaults:
       layout: "default"
       scripts:
 
+
+theme: jekyll-theme-architect
